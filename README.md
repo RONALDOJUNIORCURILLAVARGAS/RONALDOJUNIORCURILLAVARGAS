@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Construyexperto](https://construyexperto.pe/)
 
-- 👨‍💻 All of my projects are available at [https://portadolio-ronaldo.netlify.app/](https://portadolio-ronaldo.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portafolio-ronaldo.netlify.app/](https://portafolio-ronaldo.netlify.app/)
 
 - 📫 How to reach me **ronaldocurillavargas@gmail.com**
 
